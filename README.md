@@ -85,4 +85,4 @@ The server will run on `http://localhost:3000`
   - Add JWT authentication
   - Use a proper database instead of in-memory storage
   - Add input validation and sanitization
-  - Implement proper file upload security measures 
+  - Implement proper file upload security measures
